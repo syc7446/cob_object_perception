@@ -1,1 +1,0 @@
-#include "object_categorization/AbstractBlobDetector.h"
